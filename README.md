@@ -25,12 +25,12 @@ This project focuses on **API design, database relationships, user authenticatio
 
 | Feature | Description |
 |----------|--------------|
-| **User Management** | CRUD for users with authentication (to be added next) |
+| **User Management** | CRUD for users with authentication  |
 | **Post Management** | Users can create, edit, delete, and view posts |
-| **Follow System** | Users can follow/unfollow others (coming soon) |
-| **Feed System** | Users can view posts from followed users (coming soon) |
+| **Follow System** | Users can follow/unfollow others  |
+| **Feed System** | Users can view posts from followed users  |
 | **Likes & Comments (Optional)** | Users can like and comment on posts |
-| **Deployment** | Hosted on Heroku/PythonAnywhere after implementation |
+| **Deployment** | Hosted on PythonAnywhere after implementation |
 
 ---
 
